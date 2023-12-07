@@ -1,4 +1,4 @@
-# Sudoku Solver Console
+# Sudoku Solver-Console Based
 
 ## Overview
 Sudoku Solver Console is a Java-based command-line application tailored for solving and playing Sudoku puzzles. It provides a straightforward, text-based interface, allowing users to either solve Sudoku puzzles with the help of the program or to input puzzles and find solutions.
