@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SudokuSolver-ConsoleBased:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SudokuSolver_ConsoleBased_jar2</output-path>
+    <root id="archive" name="SudokuSolver-ConsoleBased.jar">
+      <element id="module-output" name="SudokuSolver-ConsoleBased" />
+    </root>
+  </artifact>
+</component>
